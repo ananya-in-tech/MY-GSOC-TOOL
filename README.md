@@ -291,7 +291,7 @@ The following users have forked this project:
 - [Adarshkumar0509/MY-GSOC-TOOL](https://github.com/Adarshkumar0509/MY-GSOC-TOOL) - ⭐ 8 stars
 - [Pritz395/MY-GSOC-TOOL](https://github.com/Pritz395/MY-GSOC-TOOL) - ⭐ 2 stars
 - [swaparup36/MY-GSOC-TOOL](https://github.com/swaparup36/MY-GSOC-TOOL) - ⭐ 1 stars
-- [Aaravanand00/MY-GSOC-TOOL](https://github.com/Aaravanand00/MY-GSOC-TOOL) - ⭐ 0 stars
+- [ojaswa072/MY-GSOC-TOOL](https://github.com/ojaswa072/MY-GSOC-TOOL) - ⭐ 0 stars
 - [stealthwhizz/MY-GSOC-TOOL](https://github.com/stealthwhizz/MY-GSOC-TOOL) - ⭐ 0 stars
 - [Jayant2908/MY-GSOC-TOOL](https://github.com/Jayant2908/MY-GSOC-TOOL) - ⭐ 0 stars
 - [Riya-Jain-here/MY-GSOC-TOOL](https://github.com/Riya-Jain-here/MY-GSOC-TOOL) - ⭐ 0 stars
@@ -304,7 +304,7 @@ The following users have forked this project:
 - [Varshith2403315/MY-GSOC-TOOL](https://github.com/Varshith2403315/MY-GSOC-TOOL) - ⭐ 0 stars
 - [aimaan-ayaz/MY-GSOC-TOOL](https://github.com/aimaan-ayaz/MY-GSOC-TOOL) - ⭐ 0 stars
 - [Shhazzz/MY-GSOC-TOOL](https://github.com/Shhazzz/MY-GSOC-TOOL) - ⭐ 0 stars
-- [ojaswa072/MY-GSOC-TOOL](https://github.com/ojaswa072/MY-GSOC-TOOL) - ⭐ 0 stars
+- [Aaravanand00/MY-GSOC-TOOL](https://github.com/Aaravanand00/MY-GSOC-TOOL) - ⭐ 0 stars
 - [btwshivam/MY-GSOC-TOOL](https://github.com/btwshivam/MY-GSOC-TOOL) - ⭐ 0 stars
 - [DevalPrime/MY-GSOC-TOOL](https://github.com/DevalPrime/MY-GSOC-TOOL) - ⭐ 0 stars
 - [Rudra-rps/MY-GSOC-TOOL](https://github.com/Rudra-rps/MY-GSOC-TOOL) - ⭐ 0 stars
@@ -314,11 +314,10 @@ The following users have forked this project:
 - [abdallahrali/MY-GSOC-TOOL](https://github.com/abdallahrali/MY-GSOC-TOOL) - ⭐ 0 stars
 - [Sumit6307/MY-GSOC-TOOL](https://github.com/Sumit6307/MY-GSOC-TOOL) - ⭐ 0 stars
 - [BUDEGlobalEnterprise/MY-GSOC-TOOL](https://github.com/BUDEGlobalEnterprise/MY-GSOC-TOOL) - ⭐ 0 stars
-- [e-esakman/MY-GSOC-TOOL](https://github.com/e-esakman/MY-GSOC-TOOL) - ⭐ 0 stars
 - [DishaA06/MY-GSOC-TOOL](https://github.com/DishaA06/MY-GSOC-TOOL) - ⭐ 0 stars
 - [Krishiv-Mahajan/MY-GSOC-TOOL](https://github.com/Krishiv-Mahajan/MY-GSOC-TOOL) - ⭐ 0 stars
 
-_Last updated: 2026-09-11 03:08:28 UTC_
+_Last updated: 2026-09-12 03:14:41 UTC_
 <!-- FORKS_END -->
 
 ---
