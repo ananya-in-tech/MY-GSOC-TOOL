@@ -302,7 +302,7 @@ The following users have forked this project:
 - [snk-git-hub/MY-GSOC-TOOL](https://github.com/snk-git-hub/MY-GSOC-TOOL) - ⭐ 0 stars
 - [mdkaifansari04/MY-GSOC-TOOL](https://github.com/mdkaifansari04/MY-GSOC-TOOL) - ⭐ 0 stars
 - [Varshith2403315/MY-GSOC-TOOL](https://github.com/Varshith2403315/MY-GSOC-TOOL) - ⭐ 0 stars
-- [aimaan-ayaz/MY-GSOC-TOOL](https://github.com/aimaan-ayaz/MY-GSOC-TOOL) - ⭐ 0 stars
+- [aimaanayaz/MY-GSOC-TOOL](https://github.com/aimaanayaz/MY-GSOC-TOOL) - ⭐ 0 stars
 - [Shhazzz/MY-GSOC-TOOL](https://github.com/Shhazzz/MY-GSOC-TOOL) - ⭐ 0 stars
 - [Aaravanand00/MY-GSOC-TOOL](https://github.com/Aaravanand00/MY-GSOC-TOOL) - ⭐ 0 stars
 - [btwshivam/MY-GSOC-TOOL](https://github.com/btwshivam/MY-GSOC-TOOL) - ⭐ 0 stars
@@ -317,7 +317,7 @@ The following users have forked this project:
 - [DishaA06/MY-GSOC-TOOL](https://github.com/DishaA06/MY-GSOC-TOOL) - ⭐ 0 stars
 - [Krishiv-Mahajan/MY-GSOC-TOOL](https://github.com/Krishiv-Mahajan/MY-GSOC-TOOL) - ⭐ 0 stars
 
-_Last updated: 2026-10-05 04:12:01 UTC_
+_Last updated: 2026-10-06 05:00:33 UTC_
 <!-- FORKS_END -->
 
 ---
